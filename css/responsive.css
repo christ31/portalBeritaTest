@@ -2,3 +2,7 @@
 @media all and (max-width :1000px) {
     
 }
+/* responsive smartphone display */
+@media all and (max-width: 670px){
+
+}
