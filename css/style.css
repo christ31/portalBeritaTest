@@ -4,7 +4,7 @@ div, p{
 
 body{
   padding: 0 100px;
-  height:2000px;
+  height: 2000px;
 
   background-color: #F6F4F0;
 }
@@ -20,7 +20,7 @@ body{
   top: 20px;
   left: 20px;
 
-  background: green;
+  background: #469F00;
   color:black;
   padding: 5px 20px;
   border-radius: 50px;
@@ -48,6 +48,8 @@ body{
 
   margin: 0 auto;
   width: 720px;
+
+  box-shadow: 7px 9px 4px rgba(0, 0, 0, 0.6);
 }
 
 .main-news-card p{
