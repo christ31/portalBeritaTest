@@ -1,9 +1,7 @@
 /* responsive tablet display */
 @media all and (max-width :1000px) {
     .main-container{
-        margin: 0;
         width: 100%;
-        
     }
     .main-news-card{
         width: 95%;
@@ -21,11 +19,13 @@
         width: 100%;
     }
     .main-news-card{
-        margin-top: 100px;
         width: 95%;
         line-height: 20px;
+        padding: 10px;
+        
     }
     .main-news-card-img{
         width: 100%;
     }
+
 }
