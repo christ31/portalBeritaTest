@@ -3,7 +3,7 @@ div, p{
 }
 
 body{
-  padding: 0 100px;
+  /* padding: 0 100px; */
 
   background-color: #F6F4F0;
 }
@@ -64,6 +64,7 @@ nav ul li a:hover {
 .main-container{
   position: relative;
   text-align: center;
+  margin: 0 100px;
 }
 
 .main-news-tags{
