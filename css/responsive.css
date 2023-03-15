@@ -1,8 +1,31 @@
 /* responsive tablet display */
 @media all and (max-width :1000px) {
-    
+  .main-container{
+      width: 100%;
+  }
+  .main-news-card{
+      width: 95%;
+      line-height: 40px;
+  }
+  .main-news-card-img{
+      width: 100%;
+  }
+
 }
 /* responsive smartphone display */
-@media all and (max-width: 670px){
+@media all and (min-width: 670px){
+  .main-container{
+      margin: 0;
+      width: 100%;
+  }
+  .main-news-card{
+      width: 95%;
+      line-height: 20px;
+      padding: 10px;
+      
+  }
+  .main-news-card-img{
+      width: 100%;
+  }
 
 }
